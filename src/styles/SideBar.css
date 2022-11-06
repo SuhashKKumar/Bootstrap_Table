@@ -1,0 +1,27 @@
+.nav-container {
+    height: 98vh;
+  }
+  .container {
+    margin: 0 !important;
+  }
+  .sidebar {
+    width: 5rem !important;
+  }
+  li {
+    list-style: none;
+  }
+  a {
+    display: inline-block !important;
+    text-decoration: none;
+    color: black;
+  }
+  th {
+    font-weight: 600;
+    font-size: 0.7rem;
+  }
+  td {
+    font-weight: 500;
+    font-size: 0.8rem;
+    padding: 0rem !important;
+  }
+  
